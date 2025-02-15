@@ -13,10 +13,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
         {
-      name: "Public Lavalink v4 NonSSL",
-      password : "https://discord.gg/v6sdrD9kPh",
-      host : "lavalink_v4.muzykant.xyz",
-      port : 80,
+      name: "INZEWORLD.COM (DE)",
+      password : "saher.inzeworld.com",
+      host : "lava.inzeworld.com",
+      port : 3128,
       secure: false
     },
     {
