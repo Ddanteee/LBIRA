@@ -13,9 +13,9 @@ module.exports = {
   errorLog: "", 
   nodes: [
         {
-      name: "ChalresNaig Node",
-      password: "NAIGLAVA-dash.techbyte.host",
-      host: "lavahatry4.techbyte.host",
+      name: "Public Lavalink v4 NonSSL",
+      password: "https://dsc.gg/ajidevserver",
+      host: "lava-v4.ajieblogs.eu.org",
       port: 3000,
       secure: false
     },
@@ -23,7 +23,7 @@ module.exports = {
       name: "Koi Node V4",
       password: "prplmoe.me",
       host: "lava.inzeworld.com",
-      port: 3128,
+      port: 80,
       secure: false
     },
     { 
