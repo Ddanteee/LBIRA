@@ -19,19 +19,4 @@ module.exports = {
       port: 3000,
       secure: false
     },
-    {
-      name: "Koi Node V4",
-      password: "prplmoe.me",
-      host: "lava.inzeworld.com",
-      port: 80,
-      secure: false
-    },
-    { 
-      name: "saher",
-      password: "saher.inzeworld.com",
-      host: "lava.inzeworld.com",
-      port: 3128,
-      secure: false
-    }
-  ]
-}
+   
