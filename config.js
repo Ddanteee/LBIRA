@@ -13,10 +13,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
         {
-      name: "INZEWORLD.COM (DE)",
-      password: "saher.inzeworld.com",
-      host: "lava.inzeworld.com",
-      port: 3128,
+      name: "Avinan",
+      password: "avinan",
+      host: "new-york-node-1.vortexcloud.xyz",
+      port: 9323,
       secure: false
     },
   ] 
