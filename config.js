@@ -13,10 +13,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
         {
-      name: "Avinan",
-      password: "avinan",
-      host: "new-york-node-1.vortexcloud.xyz",
-      port: 9323,
+      name: "Public Lavalink v4 NonSSL",
+      password: "https://dsc.gg/ajidevserver",
+      host: "lava-v4.ajieblogs.eu.org",
+      port: 80,
       secure: false
     },
   ] 
